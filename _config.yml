@@ -4,7 +4,7 @@ url: public-transport-victoria-timetable.streamdata.gallery
 tag: Public Transport Victoria Timetable
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: public-transport-victoria-timetable
 github_branch: master
 collections:
